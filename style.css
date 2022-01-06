@@ -1,0 +1,178 @@
+body{
+ margin: 0;
+}
+h1{
+    font-size: 30px;font-family: 'Yeseva One', cursive;
+}
+p{
+   color: #382d2db3;
+   text-align: justify;
+   padding: 10px 0;
+   font-size: 17px;
+}
+.header_area{
+    display: flex;
+}
+.half_width{
+    width: 50%;
+    margin:0 80px;
+}
+.half_width img{
+    width: 70%;
+    
+}
+h2{
+    color: 333333;
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    font-weight: normal;
+}
+.orange_color{
+    color: orange;
+}
+.head_color{
+   border-left: 3px solid #FF5959;
+   border-radius: 1px;
+   padding-left: 5px;
+}
+.half_width p{
+    color:#382d2db3;
+    text-align: justify;
+    
+    font-size: 17px;
+    padding: 10px 0;
+}
+.btn{
+    background-color: #FF5959;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.mission_area{
+    padding: 30px 0;
+}
+.mission_head{
+    color: #13103A;
+    text-align: center;
+    font-size: 48px;
+    font-family: 'Yeseva One', cursive;
+    font-weight: bold;
+    padding: 10px 30px;
+
+}
+.misson_col{
+    display: flex;
+    margin: 0 100px;
+   
+}
+
+.col_3{
+    width: 33.33%;
+    margin: 0 10px;
+    background-color: #EDF5F6;
+    padding:25px;
+    border-radius: 15px;
+}
+.col_3 img{
+    width: 30%;
+}
+#c2{
+background-color: #FFEEEE;
+}
+#c3{
+background-color: #FFF4D6;
+}
+.develop_area{
+    padding: 30px 0;
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+}
+.dev_width{
+    width: 40%;
+}
+.dev_width img{
+    width: 60%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+.dev_half_width{
+    width: 40%;
+}
+.comunity_area{
+    padding: 40px 0;
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right bottom;
+    background-size: 15%;
+}
+.com_half_width{
+    width: 40%;
+
+}
+.com_half_width img{
+    width: 60%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+
+}
+.com_width{
+    width: 40%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.our_teem{
+    text-align: center;
+    margin: 0 100px;
+    padding-bottom: 20px;
+}
+.teem{
+    display: flex;
+}
+.teem img{
+    width: 20%;
+}
+.tttr{
+    font-family: 'Yeseva One', cursive;
+    font-size: 15px;
+
+}
+
+
+
+
+
+
+
+footer{
+    background-color: #0B0D17;
+    background-position: bottom;
+    padding: 20px 0;
+    text-align: center;
+    
+}
+.footer_head{
+    color: white;
+    font-size: 40px;
+    padding: 30px 0;
+    
+    font-family: 'Lobster', cursive;
+}
+.color_footer{
+    color: #FF5959;
+}
+.footer_end{
+    color: wheat;
+    font-family: 'Yeseva One', cursive;
+}
+
